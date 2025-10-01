@@ -51,7 +51,8 @@ Advisory Engine
 User Interface Layer
 Feedback & Learning Loop
 Security & Privacy
-<img width="1663" height="656" alt="download" src="https://github.com/user-attachments/assets/04e397a3-1337-4c59-952e-35adab70f591" />
+<img width="1301" height="500" alt="sih" src="https://github.com/user-attachments/assets/3c6b1c77-b25c-449c-81b8-e34753ef4d42" />
+
 
 
 ## Feasibility and Viability
